@@ -1,0 +1,10 @@
+aecb4625068782471e96e1c2dbf292bb *DESCRIPTION
+2a2c08327c590bb30613a3d963d95cad *NAMESPACE
+60b760dd11a7614c44c7ff24fd5f9b9b *R/01_shortCallbutterfly.R
+d3b533c8f049d5ac27aeab665512341b *R/02_longCallButterfly.R
+87c7084cafb9b9d94778c31cfecc5a6a *R/03_shortPutButterfly.R
+13a6db91e13595cf54b8ec47b5ad3bf8 *R/04_longPutButterfly.R
+bdb5de3e4bc18ad0ef2a357f43af52a1 *man/longCallbutterfly.Rd
+016e32dd2d139a65229814258f6da806 *man/longPutButterfly.Rd
+17ab1d3434bd343dccdc0591b515bae8 *man/shortCallbutterfly.Rd
+6d598e82d1d0dd78a1d72b0345471e92 *man/shortPutButterfly.Rd
